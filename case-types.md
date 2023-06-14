@@ -10,3 +10,5 @@
 - sentenceCase: Change format to this,
 - constantCase: CHANGE_FORMAT_TO_THIS
 - titleCase: Change Format To This
+
+Source [Plop JS](https://plopjs.com/documentation/#case-modifiers)
